@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  backend:
+    build: .
+    container_name: backend
+    restart: always
+    command: npm run dev
+    volumes:
+      - .:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - "9000:9000"
