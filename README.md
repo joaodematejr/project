@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        :web: <i>Backend + Frontend</i>
+        :computer <i>Backend + Frontend</i>
     </h1>
 
   <p>
