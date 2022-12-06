@@ -31,6 +31,8 @@
 - [Yarn] (https://yarnpkg.com/)
 - [Git] (https://git-scm.com/)
 - [GitHub] (https://github.com)
+- [Swagger] (https://swagger.com)
+- [Nodemon] (https://nodemon.com)
 
 ## :information_source: Informações
 
