@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        :iphone: <i>Backend + Frontend</i>
+        :web: <i>Backend + Frontend</i>
     </h1>
 
   <p>
